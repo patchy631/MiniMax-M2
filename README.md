@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source srcset="figures/MiniMaxLogo-Dark.png" media="(prefers-color-scheme: dark)">
-    <img src="figures/MiniMaxLogo-Light.png" width="35%" alt="MiniMax">
+    <img src="figures/MiniMaxLogo-Light.png" width="45%" alt="MiniMax">
     </source>
   </picture>
 </div>
